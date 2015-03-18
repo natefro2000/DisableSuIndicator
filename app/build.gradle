@@ -8,7 +8,7 @@ android {
         applicationId "com.smartmadsoft.xposed.disablesuindicator"
         minSdkVersion 21
         targetSdkVersion 21
-        versionCode 0
+        versionCode 1
         versionName "0.1"
     }
     buildTypes {
